@@ -10,9 +10,9 @@ Adapted SimCLR framework on modified ResNet, comparing with RotNet and exploring
 
 ## Authors
 
-- Yujie Huang
+- [Yujie Huang](https://github.com/yh382)
 
-- Yi Li
+- [Yi Li](https://github.com/yili226)
 
 - Haobo Yuan
 
